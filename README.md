@@ -34,3 +34,17 @@
 - *wave*: Collected vibration signal
 
 The equipment is supported by *Guangdong Province Key Laboratory for petrochemical equipment fault diagnosis*.
+
+## Citation
+**Please consider citing the following work if you use the datasets:**
+```
+@ARTICLE{9869794,
+  author={Liu, Zeyi and Zhang, Jingfei and He, Xiao and Zhang, Qinghua and Sun, Guoxi and Zhou, Donghua},
+  journal={IEEE Transactions on Control Systems Technology}, 
+  title={Fault Diagnosis of Rotating Machinery With Limited Expert Interaction: A Multicriteria Active Learning Approach Based on Broad Learning System}, 
+  year={2023},
+  volume={31},
+  number={2},
+  pages={953-960},
+  doi={10.1109/TCST.2022.3200214}}
+```
